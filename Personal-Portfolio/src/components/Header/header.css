@@ -1,0 +1,45 @@
+header{
+  display:flex;
+  justify-content:space-between;
+  padding:20px;
+  align-items:center;
+  background-color:#ececec;
+  margin-top:10px;
+  border-radius:10px;
+  background-color:#bc6225;
+}
+header ul{
+  display:flex;
+  gap:30px;
+}
+header ul li{
+  list-style:none;
+}
+header ul li a{
+  text-decoration:none;
+  color:black;
+  transition:0.2s linear;
+}
+header ul li a:hover{
+  color:#ececec;
+  padding:5px;
+  border-bottom:2px solid #ececec;
+}
+header .headerbtn{
+  display:flex;
+  gap:10px;
+}
+header .headerbtn button{
+  padding:0.5rem 1rem;
+  font-size:1rem;
+  background-color:#fefae0;
+  border:1px solid #fefae0;
+  border-radius:5px;
+  text-transform:uppercase;
+  cursor:pointer;
+  transition:0.2s linear;
+}
+header .headerbtn button:hover{
+  transform:scale(105%);
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,22 @@
+.footer{
+  background-color:#bc6225 ;
+
+  padding: 20px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  margin-top:20px;
+}
+.footer .container{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  justify-content:space-between;
+}
+.footer .container h5{
+  font-size: 1.5vw;
+  
+}
+.footer .container p{
+  font-size: 1vw;
+  text-transform:uppercase;
+}
