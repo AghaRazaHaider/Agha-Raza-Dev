@@ -1,17 +1,22 @@
-## Running React on Replit
+## Personal Portfolio
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+This is my personal portfolio website built with React JS. It showcases my skills, projects, and experience in web development.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Features
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+- **Home Page**
+- **About Me**
+- **Projects**
+- **Contact**
+- **Skills**
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+## Tech Stack 
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+- **React.JS** :Javascript library for building user interfaces.
+- **Styled Components** : For writting CSS inside JavaScript.
+- **Netlify/Vercel** : For Deployment.
 
-### Typescript
+## Visit
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+[AghaRaza-DEV] (www.agharaza-dev.vercel.app)
+[My GitHub Profile] (www.github.com/AghaRazaHaider)
